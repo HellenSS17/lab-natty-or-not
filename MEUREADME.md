@@ -16,5 +16,5 @@ Segue o link para visualização do vídeo:
 
 https://studio.d-id.com/share?id=033bb377df1fb1efeacdc913101eb340&utm_source=copy 
 
-## 💭 Reflexão (Opcional)
+## 💭 Reflexão 
 Este foi um projeto prazeroso de se produzir, pois me apresentou um novo universo das IA's e um pouco das inúmeras possibilidades que elas nos trazem.
